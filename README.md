@@ -76,7 +76,7 @@ Imena likova (većina) iz emisije "Noćna smena":
 - drago kenta
 - drago đure šuput
 - svetolik merkuri
-- dragiša drecon
+- dragiša drecun
 - don armando
 - gara bašanski
 - jan đurica
