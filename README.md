@@ -99,9 +99,15 @@ Imena likova (većina) iz emisije "Noćna smena":
 - milodrag rokvić
 - rajko trapula
 - milomir lisnica
-- rade delic
+- rade delić
 - benjamin žungul
-- riki lugonjic
+- riki lugonjić
 - darko blesavi
 - dule zmaj
 - ljuba crni
+- dane trtica
+- leonidas sakis
+- marko kamiondžija
+- mile sekira
+- rade ubiparip mešalica
+- momčilo tresiglavić
