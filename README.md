@@ -111,3 +111,4 @@ Imena likova (većina) iz emisije "Noćna smena":
 - mile sekira
 - rade ubiparip mešalica
 - momčilo tresiglavić
+- milodrag kajtaz
