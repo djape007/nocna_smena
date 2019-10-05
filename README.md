@@ -112,3 +112,4 @@ Imena likova (većina) iz emisije "Noćna smena":
 - rade ubiparip mešalica
 - momčilo tresiglavić
 - milodrag kajtaz
+- veljko pišt
